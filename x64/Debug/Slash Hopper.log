@@ -1,0 +1,6 @@
+﻿  GameLogic.cpp
+D:\GemDev\Slash Hopper\Slash Hopper\GameLogic.cpp(107,44): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  UI.cpp
+  Generating Code...
+  Slash Hopper.vcxproj -> D:\GemDev\Slash Hopper\x64\Debug\Slash Hopper.exe
